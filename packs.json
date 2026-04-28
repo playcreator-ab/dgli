@@ -1,0 +1,11 @@
+{
+  "packs": [
+    {
+      "id": "evb-6",
+      "name": "DGM Modded Survival O-version",
+      "version": "1.0.0",
+      "mc_version": "1.21.1",
+      "toml_url": "https://raw.githubusercontent.com/playcreator-ab/dgli/refs/heads/main/evb6-default/pack.toml"
+    }
+  ]
+}
