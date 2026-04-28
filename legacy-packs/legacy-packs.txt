@@ -1,0 +1,253 @@
+    {
+      "id": "survival-plus",
+      "name": "Survival Plus v1",
+      "version": "1.0.0",
+      "mc_version": "1.20.1",
+      "toml_url": "[https://playcreator-ab.github.io/dgli/modpack-alpha/pack.toml](https://playcreator-ab.github.io/dgli/modpack-alpha/pack.toml)"
+    },
+    {
+      "id": "creative-tech",
+      "name": "Moben mekla non official",
+      "version": "2.0.0",
+      "mc_version": "1.19.2",
+      "toml_url": "[https://playcreator-ab.github.io/dgli/modpack-beta/pack.toml](https://playcreator-ab.github.io/dgli/modpack-beta/pack.toml)"
+    },
+
+
+
+    hash-format = "sha256"
+
+[[files]]
+file = "3dskinlayers.pw.toml"
+hash = "c455a7a290730d29817289812bbf8b756c39484994d7430a8aa00e971dd37fbf"
+metafile = true
+
+[[files]]
+file = "amendments.pw.toml"
+hash = "a2399448c01ac7d1e361feb820620a8f6f0f8e8bb538afeead8b1d530829286b"
+metafile = true
+
+[[files]]
+file = "architectury-api.pw.toml"
+hash = "3c5afd30b70adf475d71e49f0912539dfbcf11478ed119a4f4e6d502aa07f7ce"
+metafile = true
+
+[[files]]
+file = "badoptimizations.pw.toml"
+hash = "329a89d99fea0496482679dfe80a1bc0a187be91e52f95c4d0b8ac8236ab1e24"
+metafile = true
+
+[[files]]
+file = "balm.pw.toml"
+hash = "d80d8a321614635874278ffb46df4158ef829545cd3e3166b9e858a9b3544328"
+metafile = true
+
+[[files]]
+file = "betterf3.pw.toml"
+hash = "ef21ad54186d4a41f30037d731dce9e65501811266fa39a264a39938f481851e"
+metafile = true
+
+[[files]]
+file = "cherished-worlds.pw.toml"
+hash = "ea32f29881c0d9def5ce980d4d469d0390c9734db43c101d739f55b9a9f055a0"
+metafile = true
+
+[[files]]
+file = "cloth-config.pw.toml"
+hash = "a17e9d14a3efb24b659673f58de17eacf700e46062d91b6a45359145dc220282"
+metafile = true
+
+[[files]]
+file = "clumps.pw.toml"
+hash = "faf97ee51a85007fe8fa7a0ffca9a9d661a7d86a7cf02e5623c214898815d9cb"
+metafile = true
+
+[[files]]
+file = "controlling.pw.toml"
+hash = "91ca2a0e6c511aa3df0ca6d433fa9e52c1799fc6ea8489bee6b6825b39503035"
+metafile = true
+
+[[files]]
+file = "copycats.pw.toml"
+hash = "1cf0666d0d83ca652c5702dfb0adc5386b669810fcfbc5147e95d468190f59c6"
+metafile = true
+
+[[files]]
+file = "create-deco.pw.toml"
+hash = "670cb44d5edf1ec4c52d7ba6daed468431542b1eb6194597f8b0bb99844fe167"
+metafile = true
+
+[[files]]
+file = "create-dragons-plus.pw.toml"
+hash = "51e144376f9667add7e6f162fe51b46eef42016949185359b2e8326fb87328f5"
+metafile = true
+
+[[files]]
+file = "create-enchantment-industry.pw.toml"
+hash = "60a9bd29c551738eb96a1b66251b1fe7f1fd2aa2926070140504734403f092ac"
+metafile = true
+
+[[files]]
+file = "create.pw.toml"
+hash = "f3c238f68814c28d5a0c86189fb54812f954d649f63f4ede9baec758460404f0"
+metafile = true
+
+[[files]]
+file = "curios.pw.toml"
+hash = "8cfdfca589157217c3bd617dad6b298f82b4818e1cf67383ce9f2d5b85a9f997"
+metafile = true
+
+[[files]]
+file = "decorative-blocks-reborn.pw.toml"
+hash = "68460a23716be54619429be4a3a250cd0e438f87b18bb012658b38c5c071ca09"
+metafile = true
+
+[[files]]
+file = "dynamic-fps.pw.toml"
+hash = "64fb4c2fc9a9d62d46ccffda3ea2cfd9b5ca60d8af0d4afe35430005e7b71dd1"
+metafile = true
+
+[[files]]
+file = "entityculling.pw.toml"
+hash = "b9fc22b591fb612de1a4bd6ea2e2265e45c0761fc2c5015133b74e3ae6833824"
+metafile = true
+
+[[files]]
+file = "epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "a7005e81a64dd94cf2b87374545b698697834f2d9f14f0f217f9f7fae0a9d9f5"
+metafile = true
+
+[[files]]
+file = "ferrite-core.pw.toml"
+hash = "91aa75d03c70e5eaa4f61d1616c0e3fc6ecb662730b21cbaeb5c9d58e540fd0c"
+metafile = true
+
+[[files]]
+file = "immediatelyfast.pw.toml"
+hash = "a3829b10a7f9654941d499edc2261ec164c7900aa35cb5695130f9664bd1c5c3"
+metafile = true
+
+[[files]]
+file = "iris.pw.toml"
+hash = "4fafb5885889e52b56dbdeb4a7193b45bf52043a9aa17f55d6403781ae61222f"
+metafile = true
+
+[[files]]
+file = "jade.pw.toml"
+hash = "028b8da61452850c34626efffdec7b11bedf8a9736437bd4a378ee553708f411"
+metafile = true
+
+[[files]]
+file = "jei.pw.toml"
+hash = "a82ed6ce2c450df7d965dc7d155fccc4702c2561f6d475bd53b45aead14f9ca2"
+metafile = true
+
+[[files]]
+file = "lithium.pw.toml"
+hash = "d561decfd2ad762f0d77b23995fc92e41c8ac40dc7b610582a8167a8c996d7b0"
+metafile = true
+
+[[files]]
+file = "modernfix.pw.toml"
+hash = "8acd0f963aa72a0448de110293c1986db69bbcf35abe62cd6157f72176a11e12"
+metafile = true
+
+[[files]]
+file = "moonlight.pw.toml"
+hash = "9321124ab9543933880dac43aa535ecc3a5d4b2057952ef166ec5c38217a3ef6"
+metafile = true
+
+[[files]]
+file = "mouse-tweaks.pw.toml"
+hash = "b1140d4ae2de37565ffd603c1e018b7efeacb53142014bfcf702b567490d31cf"
+metafile = true
+
+[[files]]
+file = "reeses-sodium-options.pw.toml"
+hash = "88a224bb7ed128a523a0a27c42c571c2e049705e2d21227d1e9d18878835cda2"
+metafile = true
+
+[[files]]
+file = "searchables.pw.toml"
+hash = "dbf910b625622730bd57e4d0512ab0cc5348e1005f003b8bcd21d4266e753b5e"
+metafile = true
+
+[[files]]
+file = "shulkerboxtooltip.pw.toml"
+hash = "072966168d7fc8af128b78e4ee62f66465aad6df0e50d981e134ee63292f8c42"
+metafile = true
+
+[[files]]
+file = "sodium-extra.pw.toml"
+hash = "83cbd69925cb4636c69e484bb0ef1a223e5c6a222f3c2d49ab2fc88c1fca496e"
+metafile = true
+
+[[files]]
+file = "sodium.pw.toml"
+hash = "97e4a76823d8342d421c4fe521452a6ceaabdbcf13482df8212d5318c3a2dd08"
+metafile = true
+
+[[files]]
+file = "supplementaries.pw.toml"
+hash = "7a1b615e57eedd4b93c7c5c965167d37d249d2f0899511c1c115e67483a3a666"
+metafile = true
+
+[[files]]
+file = "terralith.pw.toml"
+hash = "dfccf77975c794b6651c1130418b5dab135ff4f60a266e0937172d81140edd7d"
+metafile = true
+
+[[files]]
+file = "travelersbackpack.pw.toml"
+hash = "6916a6a1a95ad7cc01d8a5721b16ba010e8fe9d8f002b20d9c1421c0b5660a6a"
+metafile = true
+
+[[files]]
+file = "waystones.pw.toml"
+hash = "8390acd521daa34e90630f52de2c1ce1fe51b70bcf696bde71577eae913fa352"
+metafile = true
+
+[[files]]
+file = "worldedit.pw.toml"
+hash = "e7a8a16beb95cf830731d882ad1042c7a5069a450c89ca7228e5bb39588850f6"
+metafile = true
+
+[[files]]
+file = "xaeros-minimap.pw.toml"
+hash = "10c1d0f8bca4a64a090c1796c6bd68720ca592fb7948867bc14c99fa40b47992"
+metafile = true
+
+[[files]]
+file = "yungs-api.pw.toml"
+hash = "a947a7031942e8350c9868efb7597310aa335aba92d4c3ed1197bdc5d7ef9632"
+metafile = true
+
+[[files]]
+file = "yungs-better-desert-temples.pw.toml"
+hash = "0f3627e8986807bbf12f13c5611c958063df93944d31dd604d18112ca01f225b"
+metafile = true
+
+[[files]]
+file = "yungs-better-end-island.pw.toml"
+hash = "efa385a503b527ed9fa4806920ec33048dff8b35c2c03b4ac0da8803780443cf"
+metafile = true
+
+[[files]]
+file = "yungs-better-mineshafts.pw.toml"
+hash = "8b3c159f20e2a16851d87ffe88c3ea5b5edec526921397fa9beda1dd60d81d88"
+metafile = true
+
+[[files]]
+file = "yungs-better-nether-fortresses.pw.toml"
+hash = "81cb95bc25855d8307d00afea0a5ae24184b01d2477d2be9931dccb4d2686f32"
+metafile = true
+
+[[files]]
+file = "yungs-better-strongholds.pw.toml"
+hash = "45a30be581b8dcc93ce72eb4c0549de10c7ef03cd4805604e4bbffcb2fcae24b"
+metafile = true
+
+[[files]]
+file = "yungs-bridges.pw.toml"
+hash = "c13faaf79ddb05baf60f72c3bc57c7b354850f39ac87747185fdc9b79328021b"
+metafile = true

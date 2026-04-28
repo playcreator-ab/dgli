@@ -1,0 +1,13 @@
+name = "Survival Plus"
+author = "YourName"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ee716dd93f9855586eec6154a9d53d6d1440dabae9300a58d6803f7a2d7864c2"
+
+[versions]
+fabric = "0.19.0"
+minecraft = "1.20.1"
