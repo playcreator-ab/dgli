@@ -1,0 +1,13 @@
+name = "EVB-6"
+author = "DGL"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a8c5af10bc5e9fbb979cea9d6a924039c81b56f19b2fc7fe9d6f1ab0ddb84b4f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"
